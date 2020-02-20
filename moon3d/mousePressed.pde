@@ -1,0 +1,3 @@
+void mousePressed() {
+  pressed=true;
+}
